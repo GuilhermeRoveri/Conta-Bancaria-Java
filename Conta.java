@@ -1,7 +1,7 @@
 package conta;
 import java.util.Locale;
 import java.util.Scanner;
-public class conta {
+public class Conta {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
